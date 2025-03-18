@@ -87,7 +87,7 @@ INSERT INTO Orders (OrderID, CustomerID, OrderDate, TotalAmount) VALUES
 (5, 5, '06-03-2025', 10200.00),
 (6, 6, '07-03-2025', 6200.00),
 (7, 7, '08-03-2025', 16000.00),
-(8, 8, '09-03-2025', 7500000.00),
+(8, 8, '09-03-2025', 750000.00),
 (9, 9, '10-03-2025', 11000.00),
 (10, 10, '11-03-2025', 11300.00)
 
@@ -105,7 +105,7 @@ INSERT INTO OrderDetails (OrderDetailID, OrderID, ProductID, Quantity) VALUES
 (9, 5, 9, 3),
 (10, 5, 10, 1)
 
-/* Records Insertion - OrderDetails Table */
+/* Records Insertion - Inventory Table */
 
 INSERT INTO Inventory (InventoryID, ProductID, QuantityInStock, LastStockUpdate) VALUES
 (1, 1, 50, '01-03-2025'),
