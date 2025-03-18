@@ -47,13 +47,12 @@
   FROM Orders O
 
 -- 9. Delete Orders and OrderDetails for a Specific Customer.
-  
-  DECLARE @CustomerID INT
+
   DELETE FROM OrderDetails
-  WHERE OrderID IN (SELECT OrderID FROM Orders WHERE CustomerID = @CustomerID)
+  WHERE OrderID = 2
 
   DELETE FROM Orders
-  WHERE CustomerID = @CustomerID
+  WHERE CustomerID = 2
 
 -- 10. Insert a New Electronic Gadget Product.
   
