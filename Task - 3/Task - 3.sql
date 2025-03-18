@@ -23,23 +23,23 @@
 -- 4. Find the most popular gadget. Include the product name and the total quantity ordered. 
 
     SELECT top 1 with ties SUM(od.Quantity) as Quantity, p.ProductName as 'Most Popular Gadget'
-	FROM Products p
-	JOIN OrderDetails od
-	ON p.ProductID = od.ProductID
-	GROUP BY p.productName
-	ORDER BY Quantity desc
+    FROM Products p
+    JOIN OrderDetails od
+    ON p.ProductID = od.ProductID
+    GROUP BY p.productName
+    ORDER BY Quantity desc
 
 -- 5. Retrieve a list of electronic gadgets along with their corresponding categories.
 
     ALTER TABLE Products
-	ADD Categories Varchar(20)
+    ADD Categories Varchar(20)
 	 
-	UPDATE Products
+    UPDATE Products
     SET Categories = 'E-Gadgets'
 
-	SELECT ProductName, Categories
+    SELECT ProductName, Categories
     FROM Products
-	GROUP BY Categories, ProductName
+    GROUP BY Categories, ProductName
 
 -- 6. Calculate the average order value for each customer. Include the customer's name and their average order value.
 
@@ -53,9 +53,9 @@
 
 -- 7. Find the order with the highest total revenue. Include the order ID, customer information, and the total revenue.
 
-	SELECT top 1 c.FirstName + ' ' + c.LastName AS 'Customer Name', SUM(od.Quantity * p.Price) AS 'Total Revenue', 
-	c.Email, c.Phone, c.Address
-	FROM Customers c
+    SELECT top 1 c.FirstName + ' ' + c.LastName AS 'Customer Name', SUM(od.Quantity * p.Price) AS 'Total Revenue', 
+    c.Email, c.Phone, c.Address
+    FROM Customers c
     LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
     LEFT JOIN OrderDetails od ON o.OrderID = od.OrderID
     LEFT JOIN Products p ON od.ProductID = p.ProductID
@@ -83,8 +83,8 @@
 
     SELECT SUM(od.Quantity * p.Price) AS Total_Revenue
     FROM OrderDetails od
-	JOIN Products p ON p.ProductID = od.ProductID
-	JOIN Orders o ON O.OrderID = od.OrderID
+    JOIN Products p ON p.ProductID = od.ProductID
+    JOIN Orders o ON O.OrderID = od.OrderID
     WHERE o.OrderDate BETWEEN '2025-03-01' AND '2025-03-31'
 
 
