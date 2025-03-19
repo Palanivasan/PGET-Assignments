@@ -63,7 +63,7 @@
 
   ALTER TABLE Orders
   ADD Status Varchar(15) DEFAULT 'Pending'
-
+   
   UPDATE Orders
   SET Status = 'Shipped'   
   WHERE OrderID = 3
@@ -74,7 +74,8 @@
   ADD NumberOfOrders INT DEFAULT 0;
   
   UPDATE Customers
-  SET NumberOfOrders = (
+  SET NumberOfOrders = 
+  (
     SELECT COUNT(*)
     FROM Orders
     WHERE Orders.CustomerID = Customers.CustomerID

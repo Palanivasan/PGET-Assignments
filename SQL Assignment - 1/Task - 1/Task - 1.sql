@@ -13,7 +13,7 @@ CREATE TABLE Customers (
    Address VARCHAR(max)
   )
 
-/* Products TABLE */
+/* Products Table */
 
 CREATE TABLE Products (
    ProductID INT CONSTRAINT pk_pid PRIMARY KEY (ProductID),

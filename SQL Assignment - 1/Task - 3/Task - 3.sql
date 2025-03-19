@@ -53,8 +53,7 @@
 
 -- 7. Find the order with the highest total revenue. Include the order ID, customer information, and the total revenue.
 
-    SELECT top 1 c.FirstName + ' ' + c.LastName AS 'Customer Name', SUM(od.Quantity * p.Price) AS 'Total Revenue', 
-    c.Email, c.Phone, c.Address
+    SELECT top 1 c.FirstName + ' ' + c.LastName AS 'Customer Name', SUM(od.Quantity * p.Price) AS 'Total Revenue', c.Email, c.Phone, c.Address
     FROM Customers c
     LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
     LEFT JOIN OrderDetails od ON o.OrderID = od.OrderID
