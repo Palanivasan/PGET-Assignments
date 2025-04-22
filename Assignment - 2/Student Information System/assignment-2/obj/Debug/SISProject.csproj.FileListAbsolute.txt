@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\obj\Debug\SISProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\obj\Debug\SISProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\bin\Debug\assignment-2.exe.config
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\bin\Debug\assignment-2.exe
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\bin\Debug\assignment-2.pdb
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\obj\Debug\SISProject.csproj.Up2Date
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\obj\Debug\assignment-2.exe
+C:\Users\Administrator\Desktop\consoledemo\assignment-2\assignment-2\obj\Debug\assignment-2.pdb
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\bin\Debug\assignment-2.exe.config
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\bin\Debug\assignment-2.exe
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\bin\Debug\assignment-2.pdb
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\obj\Debug\SISProject.csproj.AssemblyReference.cache
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\obj\Debug\SISProject.csproj.CoreCompileInputs.cache
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\obj\Debug\SISProject.csproj.Up2Date
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\obj\Debug\assignment-2.exe
+C:\Users\Nivas\Downloads\assignment-2\assignment-2\assignment-2\obj\Debug\assignment-2.pdb
+C:\Users\Nivas\Documents\Student Information System\assignment-2\bin\Debug\assignment-2.exe.config
+C:\Users\Nivas\Documents\Student Information System\assignment-2\bin\Debug\assignment-2.exe
+C:\Users\Nivas\Documents\Student Information System\assignment-2\bin\Debug\assignment-2.pdb
+C:\Users\Nivas\Documents\Student Information System\assignment-2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Nivas\Documents\Student Information System\assignment-2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Nivas\Documents\Student Information System\assignment-2\obj\Debug\SISProject.csproj.AssemblyReference.cache
+C:\Users\Nivas\Documents\Student Information System\assignment-2\obj\Debug\SISProject.csproj.CoreCompileInputs.cache
+C:\Users\Nivas\Documents\Student Information System\assignment-2\obj\Debug\SISProject.csproj.Up2Date
+C:\Users\Nivas\Documents\Student Information System\assignment-2\obj\Debug\assignment-2.exe
+C:\Users\Nivas\Documents\Student Information System\assignment-2\obj\Debug\assignment-2.pdb

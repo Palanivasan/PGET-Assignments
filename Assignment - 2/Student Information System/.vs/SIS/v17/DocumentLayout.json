@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|c:\\users\\nivas\\documents\\github\\pget-assignments\\assignment - 2\\student information system\\assignment-2\\dao\\enrollmentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\dao\\enrollmentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\studentinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\dao\\studentinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\courserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\dao\\courserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\exception\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\exception\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7820BA-CC95-49AF-844B-35F8C15B0E95}|assignment-2\\SISProject.csproj|solutionrelative:assignment-2\\dao\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\entity\\Course.cs",
+              "RelativeDocumentMoniker": "assignment-2\\entity\\Course.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\entity\\Course.cs",
+              "RelativeToolTip": "assignment-2\\entity\\Course.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:08:20.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\StudentInfoService.cs",
+              "RelativeDocumentMoniker": "assignment-2\\dao\\StudentInfoService.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\Student Information System\\assignment-2\\dao\\StudentInfoService.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\Student Information System\\assignment-2\\dao\\StudentInfoService.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:07:01.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\main\\MainModule.cs",
+              "RelativeDocumentMoniker": "assignment-2\\main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\main\\MainModule.cs",
+              "RelativeToolTip": "assignment-2\\main\\MainModule.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:06:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\exception\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "assignment-2\\exception\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\exception\\CustomExceptions.cs",
+              "RelativeToolTip": "assignment-2\\exception\\CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:04:32.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\EnrollmentRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "assignment-2\\dao\\EnrollmentRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\EnrollmentRepositoryImpl.cs",
+              "RelativeToolTip": "assignment-2\\dao\\EnrollmentRepositoryImpl.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA1wGYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:03:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "assignment-2\\dao\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\ICourseRepository.cs",
+              "RelativeToolTip": "assignment-2\\dao\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:03:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Nivas\\Documents\\GitHub\\PGET-Assignments\\Assignment - 2\\Student Information System\\assignment-2\\dao\\CourseRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "assignment-2\\dao\\CourseRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Nivas\\Documents\\Student Information System\\assignment-2\\dao\\CourseRepositoryImpl.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\Student Information System\\assignment-2\\dao\\CourseRepositoryImpl.cs*",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAswK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:03:01.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
